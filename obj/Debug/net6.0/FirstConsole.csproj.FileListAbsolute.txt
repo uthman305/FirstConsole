@@ -1,0 +1,45 @@
+C:\Users\Salman\Desktop\CardConsole\bin\Debug\net6.0\CardConsole.exe
+C:\Users\Salman\Desktop\CardConsole\bin\Debug\net6.0\CardConsole.deps.json
+C:\Users\Salman\Desktop\CardConsole\bin\Debug\net6.0\CardConsole.runtimeconfig.json
+C:\Users\Salman\Desktop\CardConsole\bin\Debug\net6.0\CardConsole.dll
+C:\Users\Salman\Desktop\CardConsole\bin\Debug\net6.0\CardConsole.pdb
+C:\Users\Salman\Desktop\CardConsole\obj\Debug\net6.0\CardConsole.csproj.AssemblyReference.cache
+C:\Users\Salman\Desktop\CardConsole\obj\Debug\net6.0\CardConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman\Desktop\CardConsole\obj\Debug\net6.0\CardConsole.AssemblyInfoInputs.cache
+C:\Users\Salman\Desktop\CardConsole\obj\Debug\net6.0\CardConsole.AssemblyInfo.cs
+C:\Users\Salman\Desktop\CardConsole\obj\Debug\net6.0\CardConsole.csproj.CoreCompileInputs.cache
+C:\Users\Salman\Desktop\CardConsole\obj\Debug\net6.0\CardConsole.dll
+C:\Users\Salman\Desktop\CardConsole\obj\Debug\net6.0\refint\CardConsole.dll
+C:\Users\Salman\Desktop\CardConsole\obj\Debug\net6.0\CardConsole.pdb
+C:\Users\Salman\Desktop\CardConsole\obj\Debug\net6.0\CardConsole.genruntimeconfig.cache
+C:\Users\Salman\Desktop\CardConsole\obj\Debug\net6.0\ref\CardConsole.dll
+C:\Users\Salman\Desktop\CardConsole - Copy\bin\Debug\net6.0\CardConsole.exe
+C:\Users\Salman\Desktop\CardConsole - Copy\bin\Debug\net6.0\CardConsole.deps.json
+C:\Users\Salman\Desktop\CardConsole - Copy\bin\Debug\net6.0\CardConsole.runtimeconfig.json
+C:\Users\Salman\Desktop\CardConsole - Copy\bin\Debug\net6.0\CardConsole.dll
+C:\Users\Salman\Desktop\CardConsole - Copy\bin\Debug\net6.0\CardConsole.pdb
+C:\Users\Salman\Desktop\CardConsole - Copy\obj\Debug\net6.0\CardConsole.csproj.AssemblyReference.cache
+C:\Users\Salman\Desktop\CardConsole - Copy\obj\Debug\net6.0\CardConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman\Desktop\CardConsole - Copy\obj\Debug\net6.0\CardConsole.AssemblyInfoInputs.cache
+C:\Users\Salman\Desktop\CardConsole - Copy\obj\Debug\net6.0\CardConsole.AssemblyInfo.cs
+C:\Users\Salman\Desktop\CardConsole - Copy\obj\Debug\net6.0\CardConsole.csproj.CoreCompileInputs.cache
+C:\Users\Salman\Desktop\CardConsole - Copy\obj\Debug\net6.0\CardConsole.dll
+C:\Users\Salman\Desktop\CardConsole - Copy\obj\Debug\net6.0\refint\CardConsole.dll
+C:\Users\Salman\Desktop\CardConsole - Copy\obj\Debug\net6.0\CardConsole.pdb
+C:\Users\Salman\Desktop\CardConsole - Copy\obj\Debug\net6.0\CardConsole.genruntimeconfig.cache
+C:\Users\Salman\Desktop\CardConsole - Copy\obj\Debug\net6.0\ref\CardConsole.dll
+C:\Users\Salman\Desktop\CardConsole\bin\Debug\net6.0\CardConsole.exe
+C:\Users\Salman\Desktop\CardConsole\bin\Debug\net6.0\CardConsole.deps.json
+C:\Users\Salman\Desktop\CardConsole\bin\Debug\net6.0\CardConsole.runtimeconfig.json
+C:\Users\Salman\Desktop\CardConsole\bin\Debug\net6.0\CardConsole.dll
+C:\Users\Salman\Desktop\CardConsole\bin\Debug\net6.0\CardConsole.pdb
+C:\Users\Salman\Desktop\CardConsole\obj\Debug\net6.0\CardConsole.csproj.AssemblyReference.cache
+C:\Users\Salman\Desktop\CardConsole\obj\Debug\net6.0\CardConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman\Desktop\CardConsole\obj\Debug\net6.0\CardConsole.AssemblyInfoInputs.cache
+C:\Users\Salman\Desktop\CardConsole\obj\Debug\net6.0\CardConsole.AssemblyInfo.cs
+C:\Users\Salman\Desktop\CardConsole\obj\Debug\net6.0\CardConsole.csproj.CoreCompileInputs.cache
+C:\Users\Salman\Desktop\CardConsole\obj\Debug\net6.0\CardConsole.dll
+C:\Users\Salman\Desktop\CardConsole\obj\Debug\net6.0\refint\CardConsole.dll
+C:\Users\Salman\Desktop\CardConsole\obj\Debug\net6.0\CardConsole.pdb
+C:\Users\Salman\Desktop\CardConsole\obj\Debug\net6.0\CardConsole.genruntimeconfig.cache
+C:\Users\Salman\Desktop\CardConsole\obj\Debug\net6.0\ref\CardConsole.dll
